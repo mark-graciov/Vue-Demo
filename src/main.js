@@ -11,3 +11,5 @@ new Vue({
 // nothyinig
 // aspdkjasd paskp odkasp odkasp
 // abrbabr abra brb abr ab rb arb ab
+
+// ceva cev a
